@@ -1,0 +1,17 @@
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\bin\Debug\net6.0-windows\WindowForms proycto del video.exe
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\bin\Debug\net6.0-windows\WindowForms proycto del video.deps.json
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\bin\Debug\net6.0-windows\WindowForms proycto del video.runtimeconfig.json
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\bin\Debug\net6.0-windows\WindowForms proycto del video.dll
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\bin\Debug\net6.0-windows\WindowForms proycto del video.pdb
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.csproj.AssemblyReference.cache
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms_proycto_del_video.Form1.resources
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.csproj.GenerateResource.cache
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.AssemblyInfoInputs.cache
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.AssemblyInfo.cs
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.csproj.CoreCompileInputs.cache
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.dll
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\refint\WindowForms proycto del video.dll
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.pdb
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\WindowForms proycto del video.genruntimeconfig.cache
+C:\Users\byron\OneDrive\Documentos\Visual Studio 2022\projects\WindowForms proycto del video\obj\Debug\net6.0-windows\ref\WindowForms proycto del video.dll
